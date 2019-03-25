@@ -26,6 +26,7 @@ Just run the script.
 DEBUGGING:
 i) Cache error- Try restarting the browser, check if you have correct version of
 chrome and driver or not.
+
 ii) Any other compilation error- Check that class names are correct and most importanlt
 if the code says that a certain name does not exist then there might be issues in
 connectivity.
